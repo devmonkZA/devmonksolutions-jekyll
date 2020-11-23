@@ -1,0 +1,12 @@
+# Site settings
+title: DevmonkSolutions
+email: thedevmonk@gmail.com
+description: "Devmonk Solutions" 
+baseurl: ""
+url: "https://www.devmonksolutions.com"
+
+twitter_username: DevmonkZA
+github_username: devmonksystems
+
+# Build settings
+markdown: kramdown
